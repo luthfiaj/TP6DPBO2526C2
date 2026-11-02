@@ -4,7 +4,7 @@
 
 ## Janji
 
-Saya **Luthfi Aulia Jodi** dengan NIM **2521743** mengerjakan Tugas Praktikum 6 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek (DPBO). Saya berjanji mengerjakan tugas ini dengan jujur dan tidak melakukan kecurangan sesuai dengan ketentuan yang telah ditetapkan. Semoga tugas ini dapat memberikan manfaat dan keberkahan. Aamiin.
+Saya Luthfi Aulia Jodi dengan nim 2521743 mengerjakan TP6 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 ---
 
