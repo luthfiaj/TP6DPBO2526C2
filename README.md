@@ -35,6 +35,8 @@ TP6DPBO2526C2/
 │       ├── score.wav
 │       └── hit.wav
 ├── Dokumentasi/
+│   ├── tampilan menu.png
+│   ├── game mulai sampe gameover.mp4
 └── README.md
 ```
 
